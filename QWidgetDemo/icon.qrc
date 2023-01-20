@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/qt.webp</file>
+    </qresource>
+</RCC>
